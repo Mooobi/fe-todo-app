@@ -1,0 +1,44 @@
+.section1 {
+  background: #545454;
+  height: 190px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
+
+h2 {
+  position: absolute;
+  width: 179px;
+  height: 48px;
+  left: 107px;
+  top: 66px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  color: #ffffff;
+}
+
+p {
+  position: absolute;
+  height: 30px;
+  left: 15px;
+  top: 147px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  color: #ffffff;
+}
+
+.icon {
+  position: absolute;
+  height: 30px;
+  left: 88.04%;
+  right: 2.8%;
+  top: 17.25%;
+  bottom: 79.58%;
+  color: #ffffff;
+}
